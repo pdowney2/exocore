@@ -1,6 +1,8 @@
 ---
 published: true
 topic: 
+layout: article
+category: article
 subtitle: 
 date: 2023-04-17
 tags: 

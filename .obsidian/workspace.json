@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0e8bc175b7ae476b",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
+                "file": "_articles/glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md",
+                "file": "_articles/glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_articles/Underpinnings of the Exocore.md"
+                "file": "_articles/glossary.md"
               }
             }
           },
@@ -169,11 +157,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa1ea3782e80e19",
+  "active": "0e8bc175b7ae476b",
   "lastOpenFiles": [
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/glossary.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/glossary test.md",
+    "_articles/Underpinnings of the Exocore.md",
     "_articles/Writing with Exocore Syntax.md",
     "_articles/Using your Exocore.md",
-    "_articles/glossary.md",
     "_daily/2023-04-17.md",
     "assets/imgs/dogminerpfp.jpg",
     "assets/imgs/IMG_5636.JPG",
@@ -182,7 +174,6 @@
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
     "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md",
