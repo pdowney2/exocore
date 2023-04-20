@@ -157,8 +157,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e8bc175b7ae476b",
+  "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "exocore/_site/data/user.yml",
+    "exocore/_site/data",
+    "exocore/_site",
     "_articles/Exocore Installation Instructions.md",
     "_articles/glossary.md",
     "_articles/Set up a Custom Domain.md",
