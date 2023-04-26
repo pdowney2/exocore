@@ -16,8 +16,22 @@
                 "file": "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf"
               }
             }
+          },
+          {
+            "id": "211957d8ea0e3b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_journal/2023-04 linguistic steganography notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf",
+                "file": "_journal/2023-04 linguistic steganography notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf",
+                "file": "_journal/2023-04 linguistic steganography notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf"
+                "file": "_journal/2023-04 linguistic steganography notes.md"
               }
             }
           },
@@ -154,13 +168,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e8bc175b7ae476b",
+  "active": "211957d8ea0e3b1a",
   "lastOpenFiles": [
+    "_wiki/probability distribution.md",
+    "_journal/2023-04 linguistic steganography notes.md",
+    "_journal/2023-04 block 73 new terms to be defined.md",
+    "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf",
     "library/Everything is Connected- Graph Neural Networks.pdf",
     "library/Against Intellectual Property_2.pdf",
     "library/On Cosmotechnics.pdf",
     "library/HOPFIELD NETWORKS IS ALL YOU NEED.pdf",
-    "library/Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model.pdf",
     "library/2021.naacl-main.433.pdf",
     "library/Neural Linguistic Steganography.pdf",
     "_daily/2022-05-11.md",
@@ -171,7 +188,6 @@
     "_wiki/variants.md",
     "_wiki/usufruct.md",
     "_wiki/configuration item.md",
-    "_journal/2023-04 block 73 new terms to be defined.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "Untitled.md",
     "_articles/glossary.md",
@@ -188,12 +204,10 @@
     "Untitled 1.canvas",
     "_headers.yml",
     "_config copy~.yml",
-    "_config copy.yml",
     "_articles/Configure Exocore for Personal Use.md",
     "ring.md",
     "_journal/jade-post.md",
     "_wiki/block73 new terms.md",
-    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "assets/imgs/dogminerpfp.jpg",
     "assets/imgs/IMG_5636.JPG",
     "assets/imgs/bg-yotsuba.gif"
